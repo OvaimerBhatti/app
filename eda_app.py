@@ -4,7 +4,7 @@ import streamlit as st
 import seaborn as sns
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
-st.markdown('''
+st.markdown(''' 
 # **Exploaratory Data Analysis WebApp**
 This App is develpoed by Codanics youtube channel "EDA APP" 
  ''')
